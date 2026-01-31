@@ -5,7 +5,7 @@
   "app_update": {
     "version": "1.0.3",
     "force": false,
-    "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.3/1.0.3.apk",
+    "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.3/1.0.3.apk?t=1",
     "note": "1. 修复了进入app时白屏问题\n2. 增加了备份还原功能"
   }
 }
