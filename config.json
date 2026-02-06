@@ -4,16 +4,16 @@
 
   "app_update": {
     "android": {
-      "version": "1.0.4",
+      "version": "1.0.5",
       "force": false,
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.4/1.0.4.apk",
-      "note": "1. 安卓端增加歌词翻译\n2. 修复后台播放问题"
+      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.5/1.0.5.apk",
+      "note": "1. 视频播放时隐藏标题\n2. 修复后台容易被清除问题\n3. 新增专辑/歌手/歌单搜索"
     },
     "windows": {
-      "version": "1.0.2", 
+      "version": "1.0.3", 
       "force": true, 
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.2/MusicPlayer_Setup_1.0.2.exe",
-      "note": "1. Windows 端首发版本\n2. 支持键盘 Enter 搜索"
+      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/V-1.0.3/DR.Station_Setup_v1.0.3.exe",
+      "note": "1. 新增专辑/歌手/歌单搜索\n2. 视频播放时隐藏标题"
     }
   }
 }
