@@ -18,7 +18,7 @@
     },
     "windows": {
       "version": "1.0.3",
-      "force": true,
+      "force": false,
       "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/V-1.0.3/DR.Station_Setup_v1.0.3.exe",
       "note": "1. 新增专辑/歌手/歌单搜索\n2. 视频播放时隐藏标题"
     }
