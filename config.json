@@ -7,14 +7,14 @@
     "version": "1.0.6",
     "force": false,
     "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.6/1.0.6.apk",
-    "note": "1. 修复了后台播放会被请后台的问题",
+    "note": "1. 修复了后台播放会被清后台的问题",
 
     "_comment_for_new": "========== 1.0.5 及新版本读取下面的对象 ==========",
     "android": {
       "version": "1.0.6",
       "force": false,
       "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.6/1.0.6.apk",
-      "note": "1. 修复了后台播放会被请后台的问题"
+      "note": "1. 修复了后台播放会被清后台的问题"
     },
     "windows": {
       "version": "1.0.4",
