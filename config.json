@@ -4,23 +4,23 @@
 
   "app_update": {
     "_comment_for_old": "========== 1.0.4 及旧版本读取这里的字段 ==========",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "force": false,
-    "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.6/1.0.6.apk",
-    "note": "1. 修复了后台播放会被清后台的问题",
+    "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.7/1.0.7.apk",
+    "note": "1. 紧急修复网易云不能播放的问题",
 
     "_comment_for_new": "========== 1.0.5 及新版本读取下面的对象 ==========",
     "android": {
-      "version": "1.0.6",
+      "version": "1.0.7",
       "force": false,
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.6/1.0.6.apk",
-      "note": "1. 修复了后台播放会被清后台的问题"
+      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.7/1.0.7.apk",
+      "note": "1. 紧急修复网易云不能播放的问题"
     },
     "windows": {
-      "version": "1.0.4",
+      "version": "1.0.5",
       "force": false,
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/V-1.0.4/DR.Station_Setup_v1.0.4.zip",
-      "note": "1. 修复播放全屏不完全问题\n2. 修复“添加至歌单”按钮缺失问题\n3. 新增电脑端桌面歌词"
+      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/V-1.0.5/DR.Station_Setup_v1.0.5.zip",
+      "note": "1. 紧急修复网易云不能播放的问题"
     }
   }
 }
