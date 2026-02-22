@@ -4,23 +4,23 @@
 
   "app_update": {
     "_comment_for_old": "========== 1.0.4 及旧版本读取这里的字段 ==========",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "force": false,
-    "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.7/1.0.7.apk",
-    "note": "1. 紧急修复网易云不能播放的问题",
+    "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.8/1.0.8.apk",
+    "note": "1. 影视新增模糊搜索，可以搜索类别，演员，影视简称等",
 
     "_comment_for_new": "========== 1.0.5 及新版本读取下面的对象 ==========",
     "android": {
-      "version": "1.0.7",
+      "version": "1.0.8",
       "force": false,
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.7/1.0.7.apk",
-      "note": "1. 紧急修复网易云不能播放的问题"
+      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.8/1.0.8.apk",
+      "note": "1. 影视新增模糊搜索，可以搜索类别，演员，影视简称等"
     },
     "windows": {
-      "version": "1.0.5",
+      "version": "1.0.6",
       "force": false,
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/V-1.0.5/DR.Station_Setup_v1.0.5.zip",
-      "note": "1. 紧急修复网易云不能播放的问题"
+      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/V-1.0.6/DR.Station_Setup_v1.0.6.zip",
+      "note": "1. 影视新增模糊搜索，可以搜索类别，演员，影视简称等"
     }
   }
 }
