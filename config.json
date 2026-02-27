@@ -4,23 +4,23 @@
 
   "app_update": {
     "_comment_for_old": "========== 1.0.4 及旧版本读取这里的字段 ==========",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "force": false,
-    "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.8/1.0.8.apk",
-    "note": "1. 影视新增模糊搜索，可以搜索类别，演员，影视简称等",
+    "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.9/1.0.9.apk",
+    "note": "1. 修复qq音乐搜索不稳定\n2. 加入网盘源，由于空间限制不能一口气把全网资源全部搬进来，如果各位有什么想看的请联系我，基本保证无广告＋高清",
 
     "_comment_for_new": "========== 1.0.5 及新版本读取下面的对象 ==========",
     "android": {
-      "version": "1.0.8",
+      "version": "1.0.9",
       "force": false,
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.8/1.0.8.apk",
-      "note": "1. 影视新增模糊搜索，可以搜索类别，演员，影视简称等"
+      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.9/1.0.9.apk",
+      "note": "1. 修复qq音乐搜索不稳定\n2. 加入网盘源，由于空间限制不能一口气把全网资源全部搬进来，如果各位有什么想看的请联系我，基本保证无广告＋高清"
     },
     "windows": {
-      "version": "1.0.6",
+      "version": "1.0.7",
       "force": false,
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/V-1.0.6/DR.Station_Setup_v1.0.6.zip",
-      "note": "1. 影视新增模糊搜索，可以搜索类别，演员，影视简称等"
+      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/V-1.0.7/DR.Station_Setup_v1.0.7.zip",
+      "note": "1. 修复qq音乐搜索不稳定\n2. 加入网盘源，由于空间限制不能一口气把全网资源全部搬进来，如果各位有什么想看的请联系我，基本保证无广告＋高清"
     }
   }
 }
