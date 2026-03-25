@@ -4,23 +4,23 @@
 
   "app_update": {
     "_comment_for_old": "========== 1.0.4 及旧版本读取这里的字段 ==========",
-    "version": "1.0.12",
+    "version": "1.0.13",
     "force": false,
-    "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.12/1.0.12.apk",
-    "note": "1. 新增功能：耳机控制暂停/切歌",
+    "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.13/1.0.13.apk",
+    "note": "1. 新增功能：听歌/哼唱识曲\n2. 新增音量控制",
 
     "_comment_for_new": "========== 1.0.5 及新版本读取下面的对象 ==========",
     "android": {
-      "version": "1.0.12",
+      "version": "1.0.13",
       "force": false,
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.12/1.0.12.apk",
-      "note": "1. 新增功能：耳机控制暂停/切歌"
+      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.13/1.0.13.apk",
+      "note": "1. 新增功能：听歌/哼唱识曲\n2. 新增音量控制"
     },
     "windows": {
-      "version": "1.0.12",
+      "version": "1.0.13",
       "force": false,
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/V-1.0.12/DR.Station_Setup_v1.0.12.zip",
-      "note": "1. 新增功能：耳机控制暂停/切歌\n2. 修复电脑端影视全屏时点击返回键可能卡死的bug\n3. 修复桌面歌词闪退（如发现闪退请联系我）"
+      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/V-1.0.13/DR.Station_Setup_v1.0.13.zip",
+      "note": "1. 新增功能：听歌/哼唱识曲\n2. 新增音量控制"
     }
   }
 }
