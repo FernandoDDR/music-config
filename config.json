@@ -6,20 +6,20 @@
     "_comment_for_old": "========== 1.0.4 及旧版本读取这里的字段 ==========",
     "version": "1.0.13",
     "force": false,
-    "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.13/1.0.13.apk",
+    "url": "http://103.244.89.222:5244/d/app/app_update/1.0.13.apk?sign=mUc3cHzdG7MG7P_KgMtylrSLZpOgF_8OYAIiU_cqsx4=:0",
     "note": "1. 新增功能：听歌/哼唱识曲\n2. 新增音量控制",
 
     "_comment_for_new": "========== 1.0.5 及新版本读取下面的对象 ==========",
     "android": {
       "version": "1.0.13",
       "force": false,
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/1.0.13/1.0.13.apk",
+      "url": "http://103.244.89.222:5244/d/app/app_update/1.0.13.apk?sign=mUc3cHzdG7MG7P_KgMtylrSLZpOgF_8OYAIiU_cqsx4=:0",
       "note": "1. 新增功能：听歌/哼唱识曲\n2. 新增音量控制"
     },
     "windows": {
       "version": "1.0.13",
       "force": false,
-      "url": "https://ghproxy.net/https://github.com/FernandoDDR/music-config/releases/download/V-1.0.13/DR.Station_Setup_v1.0.13.zip",
+      "url": "http://103.244.89.222:5244/d/app/app_update/DR%20Station_Setup_v1.0.13.zip?sign=ioHpY8W22rDh5yDuqU0y0OBxzLr7KQJO37h3sdO5I7Q=:0",
       "note": "1. 新增功能：听歌/哼唱识曲\n2. 新增音量控制"
     }
   }
