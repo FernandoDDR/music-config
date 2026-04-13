@@ -47,5 +47,14 @@
                                        "url":  "http://47.109.205.26:5244/d/app/app_update/DR%20Station_Setup_v1.0.14.zip?sign=FRZxY0amP_HYRmjaNu7sV5PEP1Amjw974U1u3P0rXpU=:0",
                                        "note":  "1. 修复网易云不能播放的问题(这个问题以后就无需更新了)\n2. 新增功能：听歌/哼唱识曲\n3. 新增音量控制\n4. 优化初始化速度"
                                    }
-                   }
+                   },
+    "backup_relay":  {
+                         "enabled":  true,
+                         "base_url":  "http://103.244.89.222:6666",
+                         "ttl_seconds":  300,
+                         "code_length":  6,
+                         "upload_path":  "/api/backup/upload",
+                         "fetch_path":  "/api/backup/fetch",
+                         "health_path":  "/health"
+                     }
 }
