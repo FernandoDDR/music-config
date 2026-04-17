@@ -33,19 +33,19 @@
         "version": "1.0.15",
         "force": false,
         "url": "http://47.109.205.26:5244/d/app/app_update/1.0.15.apk?sign=lBkKMHyyycdcHzMBbaLQGNuBSUCkwwd_ve1v46K8t40=:0",
-        "note": "1. 优化更新方式，之后都会直接在软件内部更新\n2. 新增云端数据同步，可以使用验证码的方式同步设备之间的数据",
+        "note": "1. 优化更新方式，之后都会直接在软件内部更新\n2. 新增云端数据同步，可以使用验证码的方式同步设备之间的数据/",
         "_comment_for_new": "========== 1.0.5 及新版本读取下面的对象 ==========",
         "android": {
             "version": "1.0.15",
             "force": false,
             "url": "http://47.109.205.26:5244/d/app/app_update/1.0.15.apk?sign=lBkKMHyyycdcHzMBbaLQGNuBSUCkwwd_ve1v46K8t40=:0",
-            "note": "1. 优化更新方式，之后都会直接在软件内部更新\n2. 新增云端数据同步，可以使用验证码的方式同步设备之间的数据"
+            "note": "1. 优化更新方式，之后都会直接在软件内部更新\n2. 新增云端数据同步，可以使用验证码的方式同步设备之间的数据/"
         },
         "windows": {
             "version": "1.0.15",
             "force": false,
             "url": "http://47.109.205.26:5244/d/app/app_update/DR%20Station_Setup_v1.0.15.zip?sign=ahNwtcpM28n8gaIaMzEWP1SyLVGAm_Z6saA2Zio3pNY=:0",
-            "note": "1. 优化更新方式，之后都会直接在软件内部更新\n2. 新增云端数据同步，可以使用验证码的方式同步设备之间的数据"
+            "note": "1. 优化更新方式，之后都会直接在软件内部更新\n2. 新增云端数据同步，可以使用验证码的方式同步设备之间的数据/"
         }
     },
     "backup_relay": {
