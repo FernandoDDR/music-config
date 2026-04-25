@@ -33,19 +33,19 @@
         "version": "1.0.16",
         "force": false,
         "url": "http://47.109.205.26:5244/d/app/app_update/1.0.16.apk?sign=qVuOZ71Sotd6SyCl_1ulLyJHooitwTDzbqAf7aJh6Y8=:0",
-        "note": "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation歌单导入\n修复qq音乐歌词翻译消失的问题",
+        "note": "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation歌单导入\n3. 修复qq音乐歌词翻译消失的问题",
         "_comment_for_new": "========== 1.0.5 及新版本读取下面的对象 ==========",
         "android": {
             "version": "1.0.16",
             "force": false,
             "url": "http://47.109.205.26:5244/d/app/app_update/1.0.16.apk?sign=qVuOZ71Sotd6SyCl_1ulLyJHooitwTDzbqAf7aJh6Y8=:0",
-            "note": "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation歌单导入\n修复qq音乐歌词翻译消失的问题"
+            "note": "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation歌单导入\n3. 修复qq音乐歌词翻译消失的问题"
         },
         "windows": {
             "version": "1.0.16",
             "force": false,
             "url": "http://47.109.205.26:5244/d/app/app_update/DR%20Station_Setup_v1.0.16.exe?sign=2x7ztQ6CDAqmcu5RqvdbQ0ejt_6n_r5uLu2LrmDdc0E=:0",
-            "note": "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation歌单导入\n修复qq音乐歌词翻译消失的问题"
+            "note": "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation歌单导入\n3. 修复qq音乐歌词翻译消失的问题"
         }
     },
     "backup_relay": {
