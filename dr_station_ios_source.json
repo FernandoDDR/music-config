@@ -17,7 +17,7 @@
             "category": "entertainment",
             "versions": [
                 {
-                    "version": "1.0.17",
+                    "version": "1.0.16",
                     "buildVersion": "1",
                     "date": "2026-04-30",
                     "localizedDescription": "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation 歌单导入\n3. 修复 QQ 音乐歌词翻译消失的问题",
