@@ -1,0 +1,38 @@
+﻿{
+    "name": "DR Station iOS",
+    "subtitle": "DR Station 的 iOS 侧载更新源",
+    "description": "给 DR Station iOS 版本使用的 SideStore/AltStore Source。",
+    "iconURL": "https://iosconfig.ddrfer.top/assets/app_icon.png",
+    "website": "https://drstation.ddrfer.top",
+    "tintColor": "#12B6A2",
+    "apps": [
+        {
+            "name": "DR Station",
+            "bundleIdentifier": "top.ddrfer.drstation",
+            "developerName": "Fernando",
+            "subtitle": "个人跨平台多媒体中心",
+            "localizedDescription": "DR Station 是一个面向个人使用的小型多媒体中心，支持音乐与影视内容浏览、在线播放、本地下载、歌词显示与听歌识曲等功能。iOS 版建议通过 SideStore 安装和更新。",
+            "iconURL": "https://iosconfig.ddrfer.top/assets/app_icon.png",
+            "tintColor": "#12B6A2",
+            "category": "entertainment",
+            "versions": [
+                {
+                    "version": "1.0.16",
+                    "buildVersion": "1",
+                    "date": "2026-04-30",
+                    "localizedDescription": "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation 歌单导入\n3. 修复 QQ 音乐歌词翻译消失的问题",
+                    "downloadURL": "http://47.109.205.26:5244/d/app/app_update/DRStation_V1.0.16.ipa?sign=TdMJe1EtVVlABbdhz2nqD_ctVMkqLxasJrylJ1FTdcs=:0",
+                    "size": 20175709,
+                    "minOSVersion": "15.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {
+                    "NSMicrophoneUsageDescription": "DR Station 需要使用麦克风来识别你唱出的歌词。"
+                }
+            }
+        }
+    ],
+    "news": []
+}
