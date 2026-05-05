@@ -1,69 +1,69 @@
 ﻿{
-    "qq_cookie":  "psrf_qqaccess_token=4349DB3FE22C8B4CEF53818BFA9F215E; psrf_qqopenid=449FC60156F46EE1570D897652C89ABF; psrf_qqrefresh_token=AFC4889FA97515236B5A6B0A4F6EC38A; qm_keyst=Q_H_L_63k3NuOxn5NPUWvxoxbFivuq4f1nbmtbEFm5zqZzRZP2GiqKVjIms8zyiD9kyYDWzs8HJfB8fcL2Qt18H1Ob5YztSfKidbXxsANcLs3ud6CXeHTaDSmBsaJMJByNZVTB0C3y7HsIV4etYgBGC94h1hQ; qqmusic_gkey=C728E2290A6F56F94E79CEE03B7923CAA4730AB6E745EF30; qqmusic_gtime=479745520; qqmusic_guid=FE23324BF57F1BC3DC0DC9A1D6AC139D; qqmusic_key=Q_H_L_63k3NuOxn5NPUWvxoxbFivuq4f1nbmtbEFm5zqZzRZP2GiqKVjIms8zyiD9kyYDWzs8HJfB8fcL2Qt18H1Ob5YztSfKidbXxsANcLs3ud6CXeHTaDSmBsaJMJByNZVTB0C3y7HsIV4etYgBGC94h1hQ; qqmusic_miniversion=16; qqmusic_uin=1255297003; qqmusic_version=22; tmeLoginType=2; uid=6626844656; wxopenid=; wxrefresh_token=; wxunionid=; qm_hideuin=1255297003; qm_method=1;",
-    "netease_cookie":  "_ga=GA1.1.185333218.1760249989; _ga_EPDQHDTJH5=GS2.1.s1760249988$o1$g1$t1760250116$j60$l0$h0; JSESSIONID-WYYY=QrcXr1kIVcRgX1G4mDP%5CYnRfbaJjoibUlETMsusk%2B94Dggj70DQbS7T8J1bmORmBbB2eHlmIXDn7tNF%2BoD6y32Y%5C5M94wqUQSDjxqezEfZ10d2Y9Za2aJq41Y8kmo6JIzccUDsAN3KzBxck673bdgplmfhWAOHhjr8iNcIi%2BQUDNDE6b%3A1769704993214; _iuqxldmzr_=32; _ntes_nnid=43eea3c44f8299c844d53b64615b49c7,1769703193228; _ntes_nuid=43eea3c44f8299c844d53b64615b49c7; Hm_lvt_d94b7d26fa25db7f6413fb58d7a438c7=1769703194; HMACCOUNT=5F1E76C884F90BBE; NMTID=00OpL9o3RxqtNAxn0OvqInNaaQigoUAAAGcCoe9sA; WM_NI=ARxs%2Bl7UI9t2FGNhHZUKt64rzNLuerKzO%2BQaLc6sTTA4eDFC2zUiF48DvYhyl0gpUnK8jHuk7FnneS9NIPXXNuQ628zRPCdhm16jTHADNEsCjPDKX4%2FKZR%2FiG669sHbHYzc%3D; WM_NIKE=9ca17ae2e6ffcda170e2e6eeb0e13e8887a88fcf4bf3e78fa2c15b829f9f82c24093998389cb7fba908c84f12af0fea7c3b92a838eb894aa68f58b87daf73a86998289cb529795bcd7b77aba928496e87a89a681ccd46b90bdfa94d76083ecaba5c549f2a69b8ac540fc9cbabaeb73b0f0a991d86689e8a6a9f861f59aa28fe859fb9287b1db548eab9fd7b134ba8ea0a4e764afeffa8bd744839c82a6f249aa908cacdb40ed9596b3ae6385eafadaf244a298979be237e2a3; WM_TID=lWmqfaLSxiNEUUQFVFOH5UXMkSvmfWIr; sDeviceId=YD-eMIMdTvDp%2FdAAhREBEKG4RXN1TqjLK8v; __snaker__id=F4MAg1Kr99u7H6qE; MUSIC_U=00451DC94B3F5ABF6F861C0528BDBB14588CA17000EC21556FA1AAD57309B61AA59D3BA0EFAA5B30E946A7F66533BA2259A7F90BB810B1576432D3D652898AD7B9071EE9FA69EDC9488AF5337B520F604DACA25F9837C748A0D0E9FC06158BC06218A53F2E27C3A19E413C7FCB9006B000DE36D54C3EFE730985EB9037D29FB524C11596CC71FB3534C0C2D95474BEE97BE451DDB378FAC5E95323DCAA154D1C9D2631552B8EB7FAE87C88732BE5057C4BFCDEA516607A3AF558172D1E6C4CE993323FFC7400C19DC980D387F6DE4221C458B732AEEA01833C7AEF8048ED75D4D67DA15836BA4663EC8268B54C393FC7A5E0E4E918C5CA0A6505661D5E7F347F980EECA19B806F8E765BEFE03FAEC0801358F6D909A1A0117B951FD99EFA8C4D8F61E5569A7F4316A676D3660AF5E9A0A48354A02E3431C24C880E20D2401ACC3F93DAC845AC4C223052B98427DF3E013BA604971350F7355F528CDC6771C866F086572E8BED2219E3C9081FBCFAD651ABE5A1BF9937C053FD8F51932810EDA7920524890133B2F58CDCCC4D3505BC38826335A6828F1807E71A959D8A05A19BEF; __csrf=e06d007ea6d77088199fe97ea15b8785; ntes_utid=tid._.NtXvRGPnS2xBAxVQFRPXsUXNwWujefn%252B._.0; ntes_kaola_ad=1; Hm_lpvt_d94b7d26fa25db7f6413fb58d7a438c7=1769703264",
-    "bilibili_cookie":  "buvid3=318C3438-F6F9-7CE2-6D56-D8071651160A87459infoc; b_nut=1777972287; _uuid=CEA3F777-55810-5975-91D2-9B92FEEA97B490329infoc; buvid4=4BC6C3B4-F863-7994-A8FF-182A433D866F88816-026050517-v0xiqZmXrYEHUF9V9kJikg%3D%3D; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzgyMzE0ODksImlhdCI6MTc3Nzk3MjIyOSwicGx0IjotMX0.uvd7q5r2UTytK_2QZak9aKqERqoUBEFrSzEWbmFBOn8; bili_ticket_expires=1778231429; buvid_fp=94ec58bbfe00b985596796e25e9a7062; SESSDATA=fa07ea91%2C1793524322%2Cc4671%2A51CjAGvNXayg1Ae7uBkWxq52Uq86LpIPHlbJk84Lm4VS6JkwTFzOuEZzWGukxVUkg3O48SVktXeVY2LVJCdC05QUFYWS03TGo2UXl0bGVYaGZjWUZlczhSME9ZcXViNy0zaXMtYVpESWpIUVJDRUFjTHB1SVRsNm54elBaeEVQZFZfSW9YdDNPNkFBIIEC; bili_jct=f0e0b21ac648e0fc7c0378f5b51eec6c; DedeUserID=441613013; DedeUserID__ckMd5=e63cef2993732e9d; theme-tip-show=SHOWED; bp_t_offset_441613013=1198871083374084096; CURRENT_FNVAL=2000; browser_resolution=1272-588; home_feed_column=4",
-    "netease_parser":  {
-                           "api_url":  "https://music.znnu.com/api/song",
-                           "ip_api_url":  "https://music.znnu.com/api/ip",
-                           "domain":  "music.znnu.com",
-                           "act":  "song",
-                           "ver":  "1",
-                           "proxy_api_url":  "https://config.ddrfer.top/api/netease/song",
-                           "secret_key":  "a09d0f3700a279584e1515354fbe08a7ee1c617f919543142fa625b82f1b5ad0",
-                           "attach_ip":  false,
-                           "sign_exclude_fields":  [
-                                                       "ver"
-                                                   ],
-                           "headers":  {
-                                           "Content-Type":  "application/x-www-form-urlencoded; charset=UTF-8",
-                                           "Origin":  "https://music.znnu.com",
-                                           "Referer":  "https://music.znnu.com/",
-                                           "User-Agent":  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-                                           "X-Requested-With":  "XMLHttpRequest",
-                                           "X-Referer":  "musicParser"
-                                       },
-                           "ip_headers":  {
-                                              "X-Referer":  "musicParser"
-                                          },
-                           "proxy_headers":  {
-                                                 "Content-Type":  "application/json"
-                                             }
-                       },
-    "app_update":  {
-                       "_comment_for_old":  "========== 1.0.4 及旧版本读取这里的字段 ==========",
-                       "version":  "1.0.16",
-                       "force":  false,
-                       "url":  "http://47.109.205.26:5244/d/app/app_update/1.0.16.apk?sign=qVuOZ71Sotd6SyCl_1ulLyJHooitwTDzbqAf7aJh6Y8=:0",
-                       "note":  "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation歌单导入\n3. 修复qq音乐歌词翻译消失的问题",
-                       "_comment_for_new":  "========== 1.0.5 及新版本读取下面的对象 ==========",
-                       "android":  {
-                                       "version":  "1.0.16",
-                                       "force":  false,
-                                       "url":  "http://47.109.205.26:5244/d/app/app_update/1.0.16.apk?sign=qVuOZ71Sotd6SyCl_1ulLyJHooitwTDzbqAf7aJh6Y8=:0",
-                                       "note":  "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation歌单导入\n3. 修复qq音乐歌词翻译消失的问题"
-                                   },
-                       "windows":  {
-                                       "version":  "1.0.16",
-                                       "force":  false,
-                                       "url":  "http://47.109.205.26:5244/d/app/app_update/DR%20Station_Setup_v1.0.16.exe?sign=2x7ztQ6CDAqmcu5RqvdbQ0ejt_6n_r5uLu2LrmDdc0E=:0",
-                                       "note":  "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation歌单导入\n3. 修复qq音乐歌词翻译消失的问题"
-                                   },
-                       "ios":  {
-                                   "version":  "1.0.16",
-                                   "force":  false,
-                                   "url":  "http://47.109.205.26:5244/d/app/app_update/DRStation_V1.0.16.ipa?sign=TdMJe1EtVVlABbdhz2nqD_ctVMkqLxasJrylJ1FTdcs=:0",
-                                   "ipa_url":  "http://47.109.205.26:5244/d/app/app_update/DRStation_V1.0.16.ipa?sign=TdMJe1EtVVlABbdhz2nqD_ctVMkqLxasJrylJ1FTdcs=:0",
-                                   "source_url":  "https://iosconfig.ddrfer.top/dr_station_ios_source.json",
-                                   "note":  "1. 新增单曲分享，支持网页端播放和直接搜索分享的单曲链接\n2. 新增歌单分享，支持网页端播放和歌单链接搜索，DRStation歌单导入\n3. 修复qq音乐歌词翻译消失的问题"
-                               }
-                   },
-    "backup_relay":  {
-                         "enabled":  true,
-                         "base_url":  "http://103.244.89.222:6666",
-                         "ttl_seconds":  300,
-                         "code_length":  6,
-                         "upload_path":  "/api/backup/upload",
-                         "fetch_path":  "/api/backup/fetch",
-                         "health_path":  "/health"
-                     }
+    "qq_cookie": "psrf_qqaccess_token=4349DB3FE22C8B4CEF53818BFA9F215E; psrf_qqopenid=449FC60156F46EE1570D897652C89ABF; psrf_qqrefresh_token=AFC4889FA97515236B5A6B0A4F6EC38A; qm_keyst=Q_H_L_63k3NuOxn5NPUWvxoxbFivuq4f1nbmtbEFm5zqZzRZP2GiqKVjIms8zyiD9kyYDWzs8HJfB8fcL2Qt18H1Ob5YztSfKidbXxsANcLs3ud6CXeHTaDSmBsaJMJByNZVTB0C3y7HsIV4etYgBGC94h1hQ; qqmusic_gkey=C728E2290A6F56F94E79CEE03B7923CAA4730AB6E745EF30; qqmusic_gtime=479745520; qqmusic_guid=FE23324BF57F1BC3DC0DC9A1D6AC139D; qqmusic_key=Q_H_L_63k3NuOxn5NPUWvxoxbFivuq4f1nbmtbEFm5zqZzRZP2GiqKVjIms8zyiD9kyYDWzs8HJfB8fcL2Qt18H1Ob5YztSfKidbXxsANcLs3ud6CXeHTaDSmBsaJMJByNZVTB0C3y7HsIV4etYgBGC94h1hQ; qqmusic_miniversion=16; qqmusic_uin=1255297003; qqmusic_version=22; tmeLoginType=2; uid=6626844656; wxopenid=; wxrefresh_token=; wxunionid=; qm_hideuin=1255297003; qm_method=1;",
+    "netease_cookie": "_ga=GA1.1.185333218.1760249989; _ga_EPDQHDTJH5=GS2.1.s1760249988$o1$g1$t1760250116$j60$l0$h0; JSESSIONID-WYYY=QrcXr1kIVcRgX1G4mDP%5CYnRfbaJjoibUlETMsusk%2B94Dggj70DQbS7T8J1bmORmBbB2eHlmIXDn7tNF%2BoD6y32Y%5C5M94wqUQSDjxqezEfZ10d2Y9Za2aJq41Y8kmo6JIzccUDsAN3KzBxck673bdgplmfhWAOHhjr8iNcIi%2BQUDNDE6b%3A1769704993214; _iuqxldmzr_=32; _ntes_nnid=43eea3c44f8299c844d53b64615b49c7,1769703193228; _ntes_nuid=43eea3c44f8299c844d53b64615b49c7; Hm_lvt_d94b7d26fa25db7f6413fb58d7a438c7=1769703194; HMACCOUNT=5F1E76C884F90BBE; NMTID=00OpL9o3RxqtNAxn0OvqInNaaQigoUAAAGcCoe9sA; WM_NI=ARxs%2Bl7UI9t2FGNhHZUKt64rzNLuerKzO%2BQaLc6sTTA4eDFC2zUiF48DvYhyl0gpUnK8jHuk7FnneS9NIPXXNuQ628zRPCdhm16jTHADNEsCjPDKX4%2FKZR%2FiG669sHbHYzc%3D; WM_NIKE=9ca17ae2e6ffcda170e2e6eeb0e13e8887a88fcf4bf3e78fa2c15b829f9f82c24093998389cb7fba908c84f12af0fea7c3b92a838eb894aa68f58b87daf73a86998289cb529795bcd7b77aba928496e87a89a681ccd46b90bdfa94d76083ecaba5c549f2a69b8ac540fc9cbabaeb73b0f0a991d86689e8a6a9f861f59aa28fe859fb9287b1db548eab9fd7b134ba8ea0a4e764afeffa8bd744839c82a6f249aa908cacdb40ed9596b3ae6385eafadaf244a298979be237e2a3; WM_TID=lWmqfaLSxiNEUUQFVFOH5UXMkSvmfWIr; sDeviceId=YD-eMIMdTvDp%2FdAAhREBEKG4RXN1TqjLK8v; __snaker__id=F4MAg1Kr99u7H6qE; MUSIC_U=00451DC94B3F5ABF6F861C0528BDBB14588CA17000EC21556FA1AAD57309B61AA59D3BA0EFAA5B30E946A7F66533BA2259A7F90BB810B1576432D3D652898AD7B9071EE9FA69EDC9488AF5337B520F604DACA25F9837C748A0D0E9FC06158BC06218A53F2E27C3A19E413C7FCB9006B000DE36D54C3EFE730985EB9037D29FB524C11596CC71FB3534C0C2D95474BEE97BE451DDB378FAC5E95323DCAA154D1C9D2631552B8EB7FAE87C88732BE5057C4BFCDEA516607A3AF558172D1E6C4CE993323FFC7400C19DC980D387F6DE4221C458B732AEEA01833C7AEF8048ED75D4D67DA15836BA4663EC8268B54C393FC7A5E0E4E918C5CA0A6505661D5E7F347F980EECA19B806F8E765BEFE03FAEC0801358F6D909A1A0117B951FD99EFA8C4D8F61E5569A7F4316A676D3660AF5E9A0A48354A02E3431C24C880E20D2401ACC3F93DAC845AC4C223052B98427DF3E013BA604971350F7355F528CDC6771C866F086572E8BED2219E3C9081FBCFAD651ABE5A1BF9937C053FD8F51932810EDA7920524890133B2F58CDCCC4D3505BC38826335A6828F1807E71A959D8A05A19BEF; __csrf=e06d007ea6d77088199fe97ea15b8785; ntes_utid=tid._.NtXvRGPnS2xBAxVQFRPXsUXNwWujefn%252B._.0; ntes_kaola_ad=1; Hm_lpvt_d94b7d26fa25db7f6413fb58d7a438c7=1769703264",
+    "bilibili_cookie": "buvid3=318C3438-F6F9-7CE2-6D56-D8071651160A87459infoc; b_nut=1777972287; _uuid=CEA3F777-55810-5975-91D2-9B92FEEA97B490329infoc; buvid4=4BC6C3B4-F863-7994-A8FF-182A433D866F88816-026050517-v0xiqZmXrYEHUF9V9kJikg%3D%3D; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzgyMzE0ODksImlhdCI6MTc3Nzk3MjIyOSwicGx0IjotMX0.uvd7q5r2UTytK_2QZak9aKqERqoUBEFrSzEWbmFBOn8; bili_ticket_expires=1778231429; buvid_fp=94ec58bbfe00b985596796e25e9a7062; SESSDATA=fa07ea91%2C1793524322%2Cc4671%2A51CjAGvNXayg1Ae7uBkWxq52Uq86LpIPHlbJk84Lm4VS6JkwTFzOuEZzWGukxVUkg3O48SVktXeVY2LVJCdC05QUFYWS03TGo2UXl0bGVYaGZjWUZlczhSME9ZcXViNy0zaXMtYVpESWpIUVJDRUFjTHB1SVRsNm54elBaeEVQZFZfSW9YdDNPNkFBIIEC; bili_jct=f0e0b21ac648e0fc7c0378f5b51eec6c; DedeUserID=441613013; DedeUserID__ckMd5=e63cef2993732e9d; theme-tip-show=SHOWED; bp_t_offset_441613013=1198871083374084096; CURRENT_FNVAL=2000; browser_resolution=1272-588; home_feed_column=4",
+    "netease_parser": {
+        "api_url": "https://music.znnu.com/api/song",
+        "ip_api_url": "https://music.znnu.com/api/ip",
+        "domain": "music.znnu.com",
+        "act": "song",
+        "ver": "1",
+        "proxy_api_url": "https://config.ddrfer.top/api/netease/song",
+        "secret_key": "a09d0f3700a279584e1515354fbe08a7ee1c617f919543142fa625b82f1b5ad0",
+        "attach_ip": false,
+        "sign_exclude_fields": [
+            "ver"
+        ],
+        "headers": {
+            "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+            "Origin": "https://music.znnu.com",
+            "Referer": "https://music.znnu.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "X-Requested-With": "XMLHttpRequest",
+            "X-Referer": "musicParser"
+        },
+        "ip_headers": {
+            "X-Referer": "musicParser"
+        },
+        "proxy_headers": {
+            "Content-Type": "application/json"
+        }
+    },
+    "app_update": {
+        "_comment_for_old": "========== 1.0.4 及旧版本读取这里的字段 ==========",
+        "version": "1.0.17",
+        "force": false,
+        "url": "http://47.109.205.26:5244/d/app/app_update/1.0.17.apk?sign=qgvgpETSCX82TaXb6MsTrp3fSsZYrAQcdaKR3jhugWA=:0",
+        "note": "1. 优化QQ音乐源歌曲的加载速度\n2. 修复QQ音乐导入的歌单的歌曲没有翻译的问题\n3.新增bilibili源，方便听二创/原创歌曲",
+        "_comment_for_new": "========== 1.0.5 及新版本读取下面的对象 ==========",
+        "android": {
+            "version": "1.0.17",
+            "force": false,
+            "url": "http://47.109.205.26:5244/d/app/app_update/1.0.17.apk?sign=qgvgpETSCX82TaXb6MsTrp3fSsZYrAQcdaKR3jhugWA=:0",
+            "note": "1. 优化QQ音乐源歌曲的加载速度\n2. 修复QQ音乐导入的歌单的歌曲没有翻译的问题\n3.新增bilibili源，方便听二创/原创歌曲"
+        },
+        "windows": {
+            "version": "1.0.17",
+            "force": false,
+            "url": "http://47.109.205.26:5244/d/app/app_update/DR%20Station_Setup_v1.0.17.exe?sign=gNgV6vvhDLu4taq1h_AExbZ--2ujLStvAugB9JlDTmE=:0",
+            "note": "1. 优化QQ音乐源歌曲的加载速度\n2. 修复QQ音乐导入的歌单的歌曲没有翻译的问题\n3.新增bilibili源，方便听二创/原创歌曲"
+        },
+        "ios": {
+            "version": "1.0.17",
+            "force": false,
+            "url": "http://47.109.205.26:5244/d/app/app_update/DRStation_V1.0.17.ipa?sign=l1KoRfnnDOrVVZuM2GO4nBmNnEqwcOR-ZWWjfh_K2lo=:0",
+            "ipa_url": "http://47.109.205.26:5244/d/app/app_update/DRStation_V1.0.17.ipa?sign=l1KoRfnnDOrVVZuM2GO4nBmNnEqwcOR-ZWWjfh_K2lo=:0",
+            "source_url": "https://iosconfig.ddrfer.top/dr_station_ios_source.json",
+            "note": "1. 优化QQ音乐源歌曲的加载速度\n2. 修复QQ音乐导入的歌单的歌曲没有翻译的问题\n3.新增bilibili源，方便听二创/原创歌曲"
+        }
+    },
+    "backup_relay": {
+        "enabled": true,
+        "base_url": "http://103.244.89.222:6666",
+        "ttl_seconds": 300,
+        "code_length": 6,
+        "upload_path": "/api/backup/upload",
+        "fetch_path": "/api/backup/fetch",
+        "health_path": "/health"
+    }
 }
